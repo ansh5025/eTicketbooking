@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ticketwebapp
 ticket web app
 =======
@@ -30,4 +29,3 @@ ticket web app
 - Kubernets as Orcharstation Tool 
 - Helm for deployment 
 - ingress-nginx ( To route traffic)
->>>>>>> 5dbea2c (add files)
